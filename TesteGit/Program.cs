@@ -10,6 +10,14 @@ namespace TesteGit {
 
             Console.WriteLine("Teste no Git");
 
+            Console.WriteLine("Mensagem 2");
+            Console.WriteLine("Mensagem 3");
+
+            for (int i = 0; i < 10; i++) {
+
+                Console.WriteLine(i);
+            }
+
             Console.ReadKey();
         }
     }
